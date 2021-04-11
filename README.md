@@ -1,8 +1,4 @@
-#javascript 
-
-#nodejs 
-
-#consola
+# javascript #nodejs #consola
 
 Crud de js por consola
 
