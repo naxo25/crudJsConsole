@@ -1,0 +1,21 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crud.js",
+  "scripts": {
+    "crud": "node crud",
+    "consola": "node crudConsole",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naxo25/crudJsConsole.git"
+  },
+  "author": "Ignacio Labra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naxo25/crudJsConsole/issues"
+  },
+  "homepage": "https://github.com/naxo25/crudJsConsole#readme"
+}
