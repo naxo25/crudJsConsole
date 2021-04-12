@@ -1,6 +1,6 @@
-# javascript #nodejs #consola
+# Crud javascript nodejs
 
-Crud de js por consola
+Crud de Js con lectura de datos por consola.
 
 ### comands
 
